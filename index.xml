@@ -1,16 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kentasuzuki.net</title>
+    <title></title>
     <link>http://kentasuzuki.net/</link>
-    <description>Recent content on kentasuzuki.net</description>
+    <description>Recent content on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2015 21:33:40 +0900</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2015 11:12:55 +0900</lastBuildDate>
     <atom:link href="http://kentasuzuki.net/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>about</title>
+      <title>来週鹿児島で Kago-tag note #2 に出演します。</title>
+      <link>http://kentasuzuki.net/blog/kago-tag-note-2/</link>
+      <pubDate>Sat, 12 Sep 2015 11:12:55 +0900</pubDate>
+      
+      <guid>http://kentasuzuki.net/blog/kago-tag-note-2/</guid>
+      <description>&lt;p&gt;リベルテマンドリンオーケストラが鹿児島で演奏します。以前から委嘱作品を書いて頂いている田口さんの地元、鹿児島にて演奏会を行います。&lt;/p&gt;
+
+&lt;p&gt;プログラムは以下のとおりです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;http://kentasuzuki.net/img/kago_tag_note_2.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
+
+&lt;pre&gt;&lt;code&gt;Kago-tag note #2
+「四季のソネット」
+
+2015.9.21(月・祝)　開場 13:00／開演 13:30
+
+サンエールかごしま・2F講堂（鹿児島県　鹿児島中央駅）
+
+全席自由：一般 2,500円 (当日 3,000円) ／　学生 1,500円 (当日 2,000円)
+
+客演指揮　　　　鷹羽弘晃
+マンドリン独奏　望月豪
+
+＜曲目＞
+
+A.ヴィヴァルディ(安藤 真裕子編)／協奏曲集「四季」より抜粋
+G.エネスコ(小穴 雄一編)／ルーマニア狂詩曲第1番
+Lennon=McCartney(橋爪皓佐・桑原ゆう・壺井一歩編)／Pops in Mandolin Orchestra - The Beatles I(委嘱初演)
+Norwegian Wood(This Bird Has Flown)／Michelle／Hey Jude
+壺井一歩／マンドリンのためのソネット第５番より　1.ロンドンデリーの歌
+田口和行／マンドリン協奏曲「六花」
+&lt;/code&gt;&lt;/pre&gt;
+
+&lt;p&gt;過去の定期演奏会からリベルテらしく、かつ再演したいと考えていた曲を取り上げています。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
       <link>http://kentasuzuki.net/about/</link>
       <pubDate>Wed, 09 Sep 2015 21:33:40 +0900</pubDate>
       
@@ -31,6 +69,14 @@
 &lt;li&gt;技術的な話はこちら: &lt;a href=&#34;http://suzuken.hatenablog.jp&#34;&gt;すずけんメモ&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;音楽やエッセイ的なものはこちら: &lt;a href=&#34;http://blog.kentasuzuki.net&#34;&gt;Source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;演奏活動について:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;演奏活動について&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&#34;http://www.liberte-mandolin.com/&#34;&gt;リベルテマンドリンオーケストラ&lt;/a&gt;とプレクトラムソサイエティという団体でクラシックギターを弾いています。リベルテマンドリンオーケストラでは2010年ごろから首席奏者をつとめています。ギターは2010年ごろから &lt;a href=&#34;http://www.ojiri.com/index.html&#34;&gt;尾尻雅弘&lt;/a&gt; さんに師事しています。&lt;/p&gt;
+
+&lt;p&gt;主にソロでの演奏の様子は &lt;a href=&#34;https://www.youtube.com/user/suzukenjp&#34;&gt;Kenta Suzuki - YouTube&lt;/a&gt; でもご覧いただけます。&lt;/p&gt;
+
+&lt;p&gt;リベルテマンドリンオーケストラでの演奏は &lt;a href=&#34;https://www.youtube.com/channel/UCfklI6Nv9phjHkWVkrWROYA&#34;&gt;LiberteMandolinJP - YouTube&lt;/a&gt; でご覧いただけます。&lt;/p&gt;
 
 &lt;h2 id=&#34;連絡先:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;連絡先&lt;/h2&gt;
 
