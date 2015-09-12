@@ -59,7 +59,7 @@ Norwegian Wood(This Bird Has Flown)／Michelle／Hey Jude
 
 &lt;h2 id=&#34;about-me:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;About me&lt;/h2&gt;
 
-&lt;p&gt;北海道十勝出身のソフトウェアエンジニアです。平日の朝夜と土日はクラシックギターを弾いています。&lt;/p&gt;
+&lt;p&gt;北海道十勝出身、東京在住のソフトウェアエンジニアです。平日の朝夜と土日はクラシックギターを弾いています。プログラミングと音楽とビールが好きです。&lt;/p&gt;
 
 &lt;h2 id=&#34;読み物:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;読み物&lt;/h2&gt;
 
@@ -70,13 +70,67 @@ Norwegian Wood(This Bird Has Flown)／Michelle／Hey Jude
 &lt;li&gt;音楽やエッセイ的なものはこちら: &lt;a href=&#34;http://blog.kentasuzuki.net&#34;&gt;Source&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
+&lt;h2 id=&#34;エンジニアリングについて:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;エンジニアリングについて&lt;/h2&gt;
+
+&lt;p&gt;プログラミングを始めたのは大学に入ってからです。アルバイトをしたり、研究をしながら学びました。2011年2月ごろから&lt;a href=&#34;http://trippiece.com/&#34;&gt;trippiece&lt;/a&gt;の立ち上げをやっていました。その頃の様子は以下の記事などをみると伝わるかと思います。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.kentasuzuki.net/2011/05/trippiece.html&#34;&gt;Source: Trippieceプレリリースと、反省と。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.kentasuzuki.net/2011/08/trippiece.html&#34;&gt;Source: trippiece α リリース、または、シードベンチャーでのエンジニアリングについ て&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.kentasuzuki.net/2011/09/blog-post.html&#34;&gt;Source: デザインから逃げない&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.kentasuzuki.net/2012/04/blog-post.html&#34;&gt;Source: 卒業と退職&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://engineer.typemag.jp/article/trippiece&#34;&gt;[連載：NEOジェネ！] 旅のソーシャルWeb『trippiece』が4度目の改変で気付いた「最強チームのつくり方」 - エンジニアtype&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;慶應義塾大学理工学研究科の山口研究室でセマンティックWebに関わる研究をしていました。内容は会計のデータをどのようにオントロジーとして表現し、共有するか、ということです。データのモデリングからシステムの設計構築までを担当しました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;JSAI2012の資料: &lt;a href=&#34;https://kaigi.org/jsai/webprogram/2012/pdf/479.pdf&#34;&gt;大規模会計 Linked Data のためのシステムアーキテクチャ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2012年からは &lt;a href=&#34;http://voyagegroup.com/&#34;&gt;株式会社VOYAGE GROUP&lt;/a&gt; でアドテクノロジー領域の開発に携わっています。広告データの解析基盤の構築や、ターゲティングの仕組みの開発、及び広告配信に関わる領域についての開発をしています。それに付随して、開発環境の整備や、サーバの管理などについても担当することもあります。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;アドテクノロジー領域、とくにDMPと言われている領域について2013年に説明した資料です: &lt;a href=&#34;http://www.slideshare.net/suzuken/head-first-ad-technology-and-dmp&#34;&gt;Head First Ad Technology and DMP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;解析環境の整備をしていた2012年夏ごろの資料です: &lt;a href=&#34;http://www.slideshare.net/suzuken/jenkinshadoop&#34;&gt;Jenkinsとhadoopを利用した継続的データ解析環境の構築&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AWSを利用したデータ解析基盤の構築について発表した資料です。2014年ごろの構成にもとづいています。: &lt;a href=&#34;http://www.slideshare.net/suzuken/data-stream-processing-and-analysis-on-aws-awscasual&#34;&gt;Data Stream Processing and Analysis on AWS #awscasual&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;JAWS DAYS 2015でデータエンジニアリングについて発表した時の資料です。: &lt;a href=&#34;http://www.slideshare.net/suzuken/data-engineering-atvoyagegroupjawsdays2015&#34;&gt;Data Engineering at VOYAGE GROUP #jawsdays&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;他の発表資料はここで見ることができます: &lt;a href=&#34;http://www.slideshare.net/suzuken&#34;&gt;Kenta Suzuki | SlideShare&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;また、2014年にはログ解析に関する本を書きました。私の章ではなぜログ解析を行う必要があるのか。そしてどのような選択肢があり、どのように方法を選択していけばよいのか、という観点から書いています。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://suzuken.hatenablog.jp/entry/2014/07/18/084555&#34;&gt;サーバ/インフラエンジニア養成読本 ログ収集~可視化編 を書きました - すずけんメモ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;出版イベントでの導入資料です。: &lt;a href=&#34;http://www.slideshare.net/suzuken/ss-38865046&#34;&gt;サービス改善はログデータ分析から&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2015年からは何かあればだいたいGoで書いています。開発の様子は &lt;a href=&#34;https://github.com/suzuken&#34;&gt;https://github.com/suzuken&lt;/a&gt; で見ることができます。&lt;/p&gt;
+
 &lt;h2 id=&#34;演奏活動について:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;演奏活動について&lt;/h2&gt;
 
-&lt;p&gt;&lt;a href=&#34;http://www.liberte-mandolin.com/&#34;&gt;リベルテマンドリンオーケストラ&lt;/a&gt;とプレクトラムソサイエティという団体でクラシックギターを弾いています。リベルテマンドリンオーケストラでは2010年ごろから首席奏者をつとめています。ギターは2010年ごろから &lt;a href=&#34;http://www.ojiri.com/index.html&#34;&gt;尾尻雅弘&lt;/a&gt; さんに師事しています。&lt;/p&gt;
+&lt;p&gt;高校1年のころからアコースティックギターを弾き始めました。当時は弾き語りをしようと思っていたのですが、押尾コータローさんのギターを聴いてソロギターを弾きたくなり、それ以来ずっとソロギターを中心に弾いています。&lt;/p&gt;
+
+&lt;p&gt;大学在学中は&lt;a href=&#34;http://www.keiomandolin.net/&#34;&gt;慶應義塾マンドリンクラブ&lt;/a&gt;でクラシックギターを弾き始めました。100人ほどのオーケストラにギターのパートがあり、そこで演奏するということをしてしました。&lt;/p&gt;
+
+&lt;p&gt;現在は&lt;a href=&#34;http://www.liberte-mandolin.com/&#34;&gt;リベルテマンドリンオーケストラ&lt;/a&gt;とプレクトラムソサイエティという団体でクラシックギターを弾いています。リベルテマンドリンオーケストラでは2010年ごろから首席奏者をつとめています。ギターは2010年ごろから &lt;a href=&#34;http://www.ojiri.com/index.html&#34;&gt;尾尻雅弘&lt;/a&gt; さんに師事しています。&lt;/p&gt;
 
 &lt;p&gt;主にソロでの演奏の様子は &lt;a href=&#34;https://www.youtube.com/user/suzukenjp&#34;&gt;Kenta Suzuki - YouTube&lt;/a&gt; でもご覧いただけます。&lt;/p&gt;
 
 &lt;p&gt;リベルテマンドリンオーケストラでの演奏は &lt;a href=&#34;https://www.youtube.com/channel/UCfklI6Nv9phjHkWVkrWROYA&#34;&gt;LiberteMandolinJP - YouTube&lt;/a&gt; でご覧いただけます。&lt;/p&gt;
+
+&lt;p&gt;2011年ごろにはMandolinspritsの録音にも参加しました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://blog.kentasuzuki.net/2011/07/mandolinspirits.html&#34;&gt;Source: Mandolinspiritsリリースとインストアライブのお知らせ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;2013年にはEuphoriaの録音に参加しました。&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.euphoria.tokyo.jp/&#34;&gt;Mandolin Ensemble EUPHORIA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.ikegaku.co.jp/shopping/products/detail.php?product_id=622&#34;&gt;イケガク / CD マンドリンアンサンブルEUPHORIA 「EUPHORIA」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;h2 id=&#34;連絡先:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;連絡先&lt;/h2&gt;
 
@@ -87,6 +141,11 @@ Norwegian Wood(This Bird Has Flown)／Michelle／Hey Jude
 &lt;li&gt;twitter: &lt;a href=&#34;https://twitter.com/suzu_v&#34;&gt;@suzu_v&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;GitHub: &lt;a href=&#34;https://github.com/suzuken&#34;&gt;suzuken&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
+
+&lt;h2 id=&#34;近況:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;近況&lt;/h2&gt;
+
+&lt;p&gt;&lt;a class=&#34;twitter-timeline&#34;  href=&#34;https://twitter.com/suzu_v&#34; data-widget-id=&#34;642582235833434112&#34;&gt;Tweets by @suzu_v&lt;/a&gt;
+&lt;script&gt;!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?&amp;lsquo;http&amp;rsquo;:&amp;lsquo;https&amp;rsquo;;if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+&amp;rdquo;://platform.twitter.com/widgets.js&amp;rdquo;;fjs.parentNode.insertBefore(js,fjs);}}(document,&amp;ldquo;script&amp;rdquo;,&amp;ldquo;twitter-wjs&amp;rdquo;);&lt;/script&gt;&lt;/p&gt;
 </description>
     </item>
     
