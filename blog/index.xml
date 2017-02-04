@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blogs on kentasuzuki.net</title>
-    <link>http://kentasuzuki.net/blog/</link>
+    <link>http://localhost:1313/blog/</link>
     <description>Recent content in Blogs on kentasuzuki.net</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja</language>
     <lastBuildDate>Sat, 07 Nov 2015 11:36:15 +0900</lastBuildDate>
-    <atom:link href="http://kentasuzuki.net/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>リベルテマンドリンオーケストラ 第12回定期演奏会</title>
-      <link>http://kentasuzuki.net/blog/liberte-10th/</link>
+      <link>http://localhost:1313/blog/liberte-10th/</link>
       <pubDate>Sat, 07 Nov 2015 11:36:15 +0900</pubDate>
       
-      <guid>http://kentasuzuki.net/blog/liberte-10th/</guid>
+      <guid>http://localhost:1313/blog/liberte-10th/</guid>
       <description>
 
 &lt;p&gt;&lt;a href=&#34;http://www.liberte-mandolin.com/&#34;&gt;リベルテマンドリンオーケストラ&lt;/a&gt; の定期演奏会が12月にあります。12月5日17:30から、トッパンホールです。&lt;/p&gt;
@@ -50,10 +50,10 @@ M. ラヴェル（鷹羽弘晃編）：ラ・ヴァルス
     
     <item>
       <title>リベルテ鹿児島公演終了しました。</title>
-      <link>http://kentasuzuki.net/blog/complete-kago-tag-note-2/</link>
+      <link>http://localhost:1313/blog/complete-kago-tag-note-2/</link>
       <pubDate>Tue, 22 Sep 2015 22:06:43 +0900</pubDate>
       
-      <guid>http://kentasuzuki.net/blog/complete-kago-tag-note-2/</guid>
+      <guid>http://localhost:1313/blog/complete-kago-tag-note-2/</guid>
       <description>&lt;p&gt;リベルテマンドリンオーケストラの鹿児島公演無事終了しました。ご来場いただいたみなさまどうもありがとうございました。&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&#34;http://kentasuzuki.net/blog/kago-tag-note-2/&#34;&gt;来週鹿児島で Kago-tag note #2 に出演します。&lt;/a&gt;&lt;/p&gt;
@@ -79,10 +79,10 @@ M. ラヴェル（鷹羽弘晃編）：ラ・ヴァルス
     
     <item>
       <title>Over the Rainbow</title>
-      <link>http://kentasuzuki.net/blog/over-the-rainbow/</link>
+      <link>http://localhost:1313/blog/over-the-rainbow/</link>
       <pubDate>Sat, 12 Sep 2015 18:55:52 +0900</pubDate>
       
-      <guid>http://kentasuzuki.net/blog/over-the-rainbow/</guid>
+      <guid>http://localhost:1313/blog/over-the-rainbow/</guid>
       <description>&lt;p&gt;動画を撮影するために新しいビデオカメラを久々に買いました。 &lt;a href=&#34;http://www.sony.jp/mvr/products/HDR-MV1/&#34;&gt;HDR-MV1&lt;/a&gt; です。というので試し撮りがてら、Over the Rainbowを弾いてみました。武満さん編曲のクラシックギターソロです。&lt;/p&gt;
 
 &lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/JGCWsSJAvYo&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -93,15 +93,15 @@ M. ラヴェル（鷹羽弘晃編）：ラ・ヴァルス
     
     <item>
       <title>来週鹿児島で Kago-tag note #2 に出演します。</title>
-      <link>http://kentasuzuki.net/blog/kago-tag-note-2/</link>
+      <link>http://localhost:1313/blog/kago-tag-note-2/</link>
       <pubDate>Sat, 12 Sep 2015 11:12:55 +0900</pubDate>
       
-      <guid>http://kentasuzuki.net/blog/kago-tag-note-2/</guid>
+      <guid>http://localhost:1313/blog/kago-tag-note-2/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;http://www.liberte-mandolin.com/&#34;&gt;リベルテマンドリンオーケストラ&lt;/a&gt; が鹿児島で演奏します。以前から委嘱作品を書いて頂いている田口さんの地元、鹿児島にて演奏会を行います。&lt;/p&gt;
 
 &lt;p&gt;プログラムは以下のとおりです。&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;http://kentasuzuki.net/img/kago_tag_note_2.jpg&#34; alt=&#34;kago tag note 2&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/img/kago_tag_note_2.jpg&#34; alt=&#34;kago tag note 2&#34; /&gt;&lt;/p&gt;
 
 &lt;pre&gt;&lt;code&gt;Kago-tag note #2
 「四季のソネット」
